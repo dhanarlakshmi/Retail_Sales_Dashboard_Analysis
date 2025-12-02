@@ -12,7 +12,7 @@ The primary objective of this project was to create a comprehensive sales perfor
 ## 📊 The Dashboard
 The dashboard visualizes $1.82M in Total Sales across 49 Customers and 200 Orders. Key metrics include Average Order Value (45K) and Total Profit (268K).
 
-![Retail Sales Performance Dashboard]Retails.png
+![Retail Sales Performance Dashboard](Screenshot 2025-12-02 224858.png)
 *(This line links the image you uploaded)*
 
 ---
